@@ -52,19 +52,17 @@ void IssueManager::addIssue(const Issue& issue) {
  * method header sample
  */
 void IssueManager::listIssues() const {
-    return 0;
 }
 
 /*
  * method header sample
  */
 bool IssueManager::editIssue(int id, const Issue& updatedIssue) {
-    return 0;
+    return false;
 }
-
 /*
  * method header sample
  */
 bool IssueManager::deleteIssue(int id) {
-    return 0;
+    return false;
 }

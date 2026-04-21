@@ -6,7 +6,7 @@
 * @date n/a completion
 */
 #include "issue_manager.h"
-#include <vector.h>
+#include <vector>
 
 /*
  * loops through issues to find the one that was passed through

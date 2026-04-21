@@ -6,7 +6,7 @@
 * @date n/a completion
 */
 #include "issue.h"
-#include <vector.h>
+#include <vector>
 
 class IssueManager {
 private:

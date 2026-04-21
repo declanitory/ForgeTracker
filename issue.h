@@ -6,6 +6,9 @@
 * @date n/a completion
 */
 
+#ifndef ISSUE_H
+#define ISSUE_H
+
 #include <string>
 #include <iostream>
 
@@ -16,3 +19,5 @@ struct Issue {
     std::string status;
     std::string priority;
 };
+
+#endif

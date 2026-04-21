@@ -36,14 +36,14 @@ void printMenu() {
  * erm 
  */
 void reader() {
-    Issue readIssueInput();
+
 }
 
 int main() {
     IssueManager manager;
     bool running = true;
 
-    banner() // print the banner once
+    banner(); // print the banner once
 
     // being program / start loop
     while (running) {
